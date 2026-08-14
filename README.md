@@ -100,3 +100,4 @@ src/
   reference didn't specify deeper destinations for them; Documents shows "Explore timeline"
   exactly as captured in the reference screenshot.
 # nexacar_frontend-
+# nexacar_frontend-
